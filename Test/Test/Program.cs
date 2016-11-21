@@ -10,7 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi! It's test2"); //Mira@DESKTOP-JCKCCPK
+            Console.WriteLine("Hi! It's test2"); 
 
             Console.ReadKey();
         }
