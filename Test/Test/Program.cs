@@ -10,6 +10,8 @@ namespace Test
             Console.WriteLine("It's second branch");
 
             Console.WriteLine("It's second branch (try two)");
+            Console.WriteLine("It's second branch (try three)");
+
 
             Console.ReadKey();
         }
